@@ -7,6 +7,7 @@ namespace matcha_waffles
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("My name is Rohit. I will be attending BEHS next year. My favorite season is fall.");
         }
     }
 }
